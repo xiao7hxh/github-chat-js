@@ -49,7 +49,7 @@ github的测试模型调用
    使用 curl 测试 API 是否正常工作：
    
 ```bash
-  curl -X POST http://localhost:3000/api/chat -H "Content-Type: application/json" -d '{"message": "What is the capital of France?"}'
+  curl -X POST http://localhost:3000/api/chat -H "Content-Type: application/json" -d "{\"message\": \"What is the capital of France?\"}"
 ```
 
 ### 技术限制
