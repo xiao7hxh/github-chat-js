@@ -1,4 +1,4 @@
-# github-chat
+# github-chat-js
 
 github的测试模型调用
 
