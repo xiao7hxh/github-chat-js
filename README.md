@@ -4,7 +4,7 @@ github的测试模型调用
 
 ![效果](https://github.com/yoshino-xiao7/tp/blob/main/img/5368650b700d97851a2947661d2a54e.png?raw=true)
 
-## 部署日志
+## 部署
 
 ### 环境准备
 
