@@ -56,6 +56,4 @@ github的测试模型调用
   curl -X POST http://localhost:3000/api/chat -H "Content-Type: application/json" -d "{\"message\": \"What is the capital of France?\"}"
 ```
 
-### 技术限制
 
-   由于本人过于傻逼（技术不成熟），无法突破技术限制，无法部署在服务器上，深感抱歉，后续技术成熟，可能会重启部署在网页上的项目，可以关注，但别期待
